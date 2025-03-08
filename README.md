@@ -1,0 +1,1 @@
+This project focuses on detecting fraudulent credit card transactions using Python and machine learning techniques. It involves data preprocessing, exploratory data analysis (EDA), and model training to classify transactions as legitimate or fraudulent.
